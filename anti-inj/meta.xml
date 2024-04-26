@@ -1,0 +1,5 @@
+<meta>
+	<info author="mono" version="1.5" type="script" />
+	<script src="client.luac" type="client" cache="false" />
+	<script src="server.luac" type="server" />
+</meta>
